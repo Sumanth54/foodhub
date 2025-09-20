@@ -1,4 +1,4 @@
-🍴 Foodhub
+# 🍴 Foodhub
 
 A full-stack food delivery application inspired by Swiggy.
 Users can browse restaurants, explore menus, add food items to their cart, and place orders seamlessly.
@@ -14,7 +14,7 @@ Users can browse restaurants, explore menus, add food items to their cart, and p
 🎨 Responsive UI for mobile & desktop
 
 
-🛠️ **Tech Stack**
+# 🛠️ Tech Stack
 
 Frontend:
 
